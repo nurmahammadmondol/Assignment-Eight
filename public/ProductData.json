@@ -1,0 +1,227 @@
+[
+  {
+    "product_id": "1",
+    "product_title": "Apple iPhone 13 Pro",
+    "product_image": "https://i.ibb.co.com/GVYy5RT/Apple-i-Phone-13-Pro.webp",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "Latest iPhone model with advanced features and battery life.",
+    "specification": ["128GB Storage", "8GB RAM", "3095mAh Battery"],
+    "availability": true,
+    "rating": 4.8,
+    "other": {
+      "brand": "Apple",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "product_id": "2",
+    "product_title": "Samsung Galaxy Watch 4",
+    "product_image": "https://i.ibb.co.com/JmkWGgk/Samsung-Galaxy-Watch-4.webp",
+    "category": "Watches",
+    "price": 279,
+    "description": "Advanced smartwatch with health tracking features.",
+    "specification": ["Heart rate monitor", "GPS", "Water-resistant"],
+    "availability": true,
+    "rating": 4.6,
+    "other": {
+      "brand": "Samsung",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "product_id": "3",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/WPtP9nj/Dell-XPS-13.jpg",
+    "category": "Laptops",
+    "price": 1200,
+    "description": "High-performance laptop with stunning display and fast processor.",
+    "specification": ["512GB SSD", "16GB RAM", "Intel i7 Processor"],
+    "availability": true,
+    "rating": 4.8,
+    "other": {
+      "brand": "Dell",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "product_id": "4",
+    "product_title": "Apple iPad Pro",
+    "product_image": "https://i.ibb.co.com/0DtGLYv/Apple-i-Pad-Pro.jpg",
+    "category": "Tablets",
+    "price": 799,
+    "description": "Powerful tablet with large display and professional features.",
+    "specification": ["256GB Storage", "8GB RAM"],
+    "availability": true,
+    "rating": 4.9,
+    "other": {
+      "brand": "Apple",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "product_id": "5",
+    "product_title": "Sony WH-1000XM4 Headphones",
+    "product_image": "https://i.ibb.co.com/B2frLwM/Sony-WH-1000-XM4-Headphones.jpg",
+    "category": "Accessories",
+    "price": 299,
+    "description": "Noise-cancelling wireless headphones with great sound quality.",
+    "specification": ["Noise-cancellation", "Wireless", "30 hours battery"],
+    "availability": true,
+    "rating": 4.8,
+    "other": {
+      "brand": "Sony",
+      "color": "Black"
+    }
+  },
+  {
+    "product_id": "6",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/YN7mcs6/HP-Spectre-x360.jpg",
+    "category": "Laptops",
+    "price": 1400,
+    "description": "Convertible laptop with 4K display and powerful performance.",
+    "specification": ["1TB SSD", "16GB RAM", "Intel i7 Processor"],
+    "availability": false,
+    "rating": 4.7,
+    "other": {
+      "brand": "HP",
+      "warranty": "3 years"
+    }
+  },
+  {
+    "product_id": "7",
+    "product_title": "Google Pixel 6",
+    "product_image": "https://i.ibb.co.com/2kSBmJ2/Google-Pixel-6.webp",
+    "category": "Smartphones",
+    "price": 699,
+    "description": "Latest Google smartphone with excellent camera and battery life.",
+    "specification": ["128GB Storage", "8GB RAM", "4614mAh Battery"],
+    "availability": true,
+    "rating": 4.5,
+    "other": {
+      "brand": "Google",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "product_id": "8",
+    "product_title": "Samsung Galaxy Tab S7",
+    "product_image": "https://i.ibb.co.com/41jR6CQ/Samsung-Galaxy-Tab-S7.webp",
+    "category": "Tablets",
+    "price": 649,
+    "description": "Android tablet with large display and high performance.",
+    "specification": ["128GB Storage", "6GB RAM"],
+    "availability": true,
+    "rating": 4.7,
+    "other": {
+      "brand": "Samsung",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "product_id": "9",
+    "product_title": "Sony PlayStation 5 Controller",
+    "product_image": "https://i.ibb.co.com/C6V6VwP/Sony-Play-Station-5-Controller.jpg",
+    "category": "Accessories",
+    "price": 70,
+    "description": "Wireless controller for PlayStation 5 with advanced features.",
+    "specification": ["Wireless", "DualSense Technology"],
+    "availability": true,
+    "rating": 4.6,
+    "other": {
+      "brand": "Sony",
+      "color": "White"
+    }
+  },
+  {
+    "product_id": "10",
+    "product_title": "MacBook Air M1",
+    "product_image": "https://i.ibb.co.com/3ykcKcY/Mac-Book-Air-M1.jpg",
+    "category": "Laptops",
+    "price": 999,
+    "description": "Ultra-lightweight laptop with M1 chip and fast performance.",
+    "specification": ["512GB SSD", "8GB RAM"],
+    "availability": true,
+    "rating": 4.8,
+    "other": {
+      "brand": "Apple",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "product_id": "11",
+    "product_title": "Fitbit Versa 3",
+    "product_image": "https://i.ibb.co.com/DC1K4r8/Fitbit-Versa-3.png",
+    "category": "Watches",
+    "price": 229,
+    "description": "Smart fitness watch with GPS and health tracking.",
+    "specification": ["Heart rate monitor", "GPS", "Water-resistant"],
+    "availability": true,
+    "rating": 4.5,
+    "other": {
+      "brand": "Fitbit",
+      "warranty": "1 year"
+    }
+  },
+  {
+    "product_id": "12",
+    "product_title": "OnePlus Buds Pro",
+    "product_image": "https://i.ibb.co.com/fGmSkf6/One-Plus-Buds-Pro.jpg",
+    "category": "Accessories",
+    "price": 129,
+    "description": "High-quality wireless earbuds with noise-cancellation.",
+    "specification": ["Noise-cancellation", "Wireless", "24 hours playtime"],
+    "availability": true,
+    "rating": 4.4,
+    "other": {
+      "brand": "OnePlus",
+      "color": "Black"
+    }
+  },
+  {
+    "product_id": "13",
+    "product_title": "Asus ROG Phone 5",
+    "product_image": "https://i.ibb.co.com/3Tk8dpk/Asus-ROG-Phone-5.jpg",
+    "category": "Smartphones",
+    "price": 799,
+    "description": "Gaming smartphone with high refresh rate display.",
+    "specification": ["256GB Storage", "12GB RAM", "6000mAh Battery"],
+    "availability": true,
+    "rating": 4.6,
+    "other": {
+      "brand": "Asus",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "product_id": "14",
+    "product_title": "Garmin Forerunner 945",
+    "product_image": "https://i.ibb.co.com/LkV9Jt2/Garmin-Forerunner-945.webp",
+    "category": "Watches",
+    "price": 499,
+    "description": "Advanced fitness smartwatch with GPS and heart tracking.",
+    "specification": ["Heart rate monitor", "GPS", "Water-resistant"],
+    "availability": true,
+    "rating": 4.9,
+    "other": {
+      "brand": "Garmin",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "product_id": "15",
+    "product_title": "Anker PowerCore 26800",
+    "product_image": "https://i.ibb.co.com/0FjgrNF/Anker-Power-Core-26800.jpg",
+    "category": "Accessories",
+    "price": 89,
+    "description": "High-capacity portable charger for multiple devices.",
+    "specification": ["26800mAh", "Dual USB", "PowerIQ Technology"],
+    "availability": true,
+    "rating": 4.6,
+    "other": {
+      "brand": "Anker",
+      "color": "Black"
+    }
+  }
+]
